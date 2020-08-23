@@ -2,7 +2,7 @@ Huffman Coding
 ========================
 
 ## About
-Huffman Coding is the algorithm for data compression
+Huffman Coding is an algorithm for data compression
 * Huffman code is an optimal prefix code and it is highly used for loseless data compression.
 * It is independent of data
 
